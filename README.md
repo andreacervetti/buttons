@@ -8,7 +8,7 @@ The game presents a 6x6 grid of button with number from 0 to 3.
 Clicking on a number that number and the four number surrounding it decrease by 1. If the value is 0 it is set to 3 again.
 The objective of the game is to set all numbers to 0.
 The game can be set to different level of difficulty.
-Every level can be solved in a maximum number of moves that is <level number> * 3. So, level "Normal" (5) can be solved in 15 moves.
+Every level can be solved in a maximum number of moves that is \<level number\> * 3. So, level "Normal" (5) can be solved in 15 moves.
 
 ## Prerequisites
 
